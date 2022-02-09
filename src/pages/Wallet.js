@@ -163,7 +163,7 @@ class Wallet extends React.Component {
                 <td>{despesa.description}</td>
                 <td>{despesa.tag}</td>
                 <td>{despesa.method}</td>
-                <td>{despesa.value}</td>
+                <td>{ despesa.value }</td>
                 <td>
                   {despesa.exchangeRates[despesa.currency].name.split('/')[0]}
                 </td>
