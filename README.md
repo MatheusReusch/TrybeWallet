@@ -3,10 +3,10 @@ Aplicação de controle de despesas que utiliza a conversão atual das moedas pa
 
 Projeto desenvolvido para a conversão de despesas de acordo com a taxa de conversão recebida pela API.
 
-Carteira:
+# Carteira:
 
 ![carteira](/carteira.gif)
 
-Edição:
+# Edição:
 
 ![edicao](/btnEditar.gif)
