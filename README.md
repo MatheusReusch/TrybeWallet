@@ -9,4 +9,4 @@ Carteira:
 
 Edição:
 
-![edicao](/editar.gif)
+![edicao](/btnEditar.gif)
